@@ -2,8 +2,6 @@ package com.erichgamma.api.user;
 
 import org.springframework.stereotype.Service;
 
-import com.erichgamma.api.enums.Messenger;
-
 import lombok.RequiredArgsConstructor;
 
 @Service
